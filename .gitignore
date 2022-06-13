@@ -2,3 +2,7 @@
 /__pycache__
 MinMax.txt
 /static/node_modules
+/src/node_modules
+/data
+/norm
+*.csv
